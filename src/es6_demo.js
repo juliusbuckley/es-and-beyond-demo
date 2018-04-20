@@ -435,7 +435,7 @@ const iterate = nums => {
   }
 };
 
-iterate([10, 20, 30]);
+// iterate([10, 20, 30]);
 
 
 
