@@ -1,0 +1,23 @@
+{
+  "name": "es-and-beyond-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "es6_demo.js",
+  "scripts": {
+    "build": "babel ./src -d ./src-dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliusbuckley/es-and-beyond-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliusbuckley/es-and-beyond-demo/issues"
+  },
+  "homepage": "https://github.com/juliusbuckley/es-and-beyond-demo#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
